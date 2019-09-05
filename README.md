@@ -5,7 +5,7 @@ Please check out cmpe230spring2019hw2corrected.pdf for description of the projec
 
 The command line syntax for running bucourses.py program is as follows:
 
-> bucourses.py <start semester>  <end-semester>
+> bucourses.py <_start semester_>  <_end-semester_>
 
 
 
